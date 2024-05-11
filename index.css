@@ -1,0 +1,17 @@
+body {
+  background-color:black;
+  
+  
+}
+
+
+h1{
+  color:white;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 40px;
+  font-style: normal;
+  text-shadow :0 0 7px #fff,
+  0 0 10px #fff;
+  
+}
